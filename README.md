@@ -23,7 +23,7 @@ Acest proiect este realizat prin programarea unui microcontroller Arduino Mega 2
    
 **Program:**
 
-Am utilizat limbajul de programare C alături de Software-ul open-source Arduino (IDE) care facilitează scrierea și încărcarea codului pe placă.
+Am utilizat limbajul de programare C++ alături de Software-ul open-source Arduino (IDE) care facilitează scrierea și încărcarea codului pe placă.
   
 **Pentru controlul motorului**, este folosita biblioteca Stepper.h. Metodele folosite din această bibliotecă sunt: 
 
