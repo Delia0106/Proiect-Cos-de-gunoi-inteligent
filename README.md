@@ -50,7 +50,11 @@ Funcția tone() generează o undă cu frecvența specificată pe un pin. Aceasta
 tone() a primit ca parametrii: pinul la care este conectat buzzerul, melodia - notă cu notă- și durata.
 Melodia aleasă este definită de doi vectori: unul cu notele necesare acesteia și unul cu durata notelor.
 
-        
+Bibliografie
+https://www.arduino.cc/en/reference/stepper
+https://docs.arduino.cc/built-in-examples/digital/toneMelody
+https://www.arduino.cc/reference/en/language/functions/advanced-io/tone/https://qxf2.com/blog/arduino-tutorials-for-testers-stepper-motor/
+https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6       
 
 
 
